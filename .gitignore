@@ -28,3 +28,5 @@ tracer*mass*.dat
 *.mp
 *.sp
 *.py
+*.pbs
+*.nc
