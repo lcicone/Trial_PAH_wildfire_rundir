@@ -22,7 +22,6 @@ HEMCO*restart*mp
 HEMCO*diagnostics*
 HEMCO*log*
 lastbuild.*
-Makefile
 Ox.mass.*
 tracer*mass*.dat
 *.mp
