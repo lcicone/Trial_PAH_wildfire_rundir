@@ -1,10 +1,10 @@
 GEOS-CHEM UNIT TEST SIMULATION: geosfp_4x5_Custom
 ------------------------+------------------------------------------------------
 %%% SIMULATION MENU %%% :
-Start YYYYMMDD, HHMMSS  : 20140101 000000
-End   YYYYMMDD, HHMMSS  : 20140101 010000
+Start YYYYMMDD, HHMMSS  : 20140801 000000
+End   YYYYMMDD, HHMMSS  : 20140801 010000
 Run directory           : ./
-Input restart file      : ./initial_GEOSChem_rst.4x5_soa.nc
+Input restart file      : ./initial_GEOSChem_rst.4x5_Custom.nc
 Root data directory     : /work/data/GEOS/ExtData
  => GCAP    subdir      : AGRID/YYYY/MM/
  => GEOS-4  subdir      : GEOS_4_v4/YYYY/MM/
@@ -218,7 +218,7 @@ Schedule output for APR : 300000000000000000000000000000
 Schedule output for MAY : 3000000000000000000000000000000
 Schedule output for JUN : 300000000000000000000000000000
 Schedule output for JUL : 3000000000000000000000000000000
-Schedule output for AUG : 3000000000000000000000000000000
+Schedule output for AUG : 3300000000000000000000000000000
 Schedule output for SEP : 300000000000000000000000000000
 Schedule output for OCT : 3000000000000000000000000000000
 Schedule output for NOV : 300000000000000000000000000000
